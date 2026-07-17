@@ -59,15 +59,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=edney96&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=edney96&layout=compact&hide_border=true&theme=default" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edneyhernandez)
